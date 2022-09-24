@@ -1,4 +1,4 @@
-# Microsoft Teams Clone
+# Video Chat 
 A video chat app with screen sharing, real time text chat and meet lock.
 
 # Install the required dependencies
